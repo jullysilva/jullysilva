@@ -37,6 +37,20 @@
 
 <p align="left">Eu sou Jully Ketely, sou de Belo Horizonte. Me apaixonei a primeira vista com o Front-End e sigo nesta área, mas não ficar só nisto, expandir minha visão e experiências é o meu foco principal. E claro, me divertir fazendo o que eu gosto.<br><br>- 🔭 Não estou trabalhando no momento<br>- 📚 Graduação em Engenharia de Software na PUCMinas<br>- ⚡ Hobbie: Estudar design, multimídia e social midia</p>
 
+Tenho uma organização, a qual contém, projetos que trabalhei na faculdade (Projetos PUC Aluno)[https://github.com/orgs/Projetos-PUC-Alunos/repositories]. Fazendo um resumo geral, dos projetos, as linguagens trabalhadas foram: 
+- React;
+- Python;
+- Postgres;
+- GraphQL;
+- RabbitMQ;
+- CloudAMQP;
+- Selenium;
+- Java;
+- Thymeleaf;
+- Spring Boot;
+- Docker;
+- Pandas.
+
 ###
 
 <h3 align="left">🛠 Linguagens e Ferramentas:</h3>

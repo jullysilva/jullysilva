@@ -1,109 +1,95 @@
-<div align="center">
-  <img height="200" src="https://github.com/jullysilva/jullysilva/assets/42702863/ad0c126c-3981-4472-bc72-0e3c7b5d7ed3"  />
-
+<div align="right">
+  🇧🇷 Português | <a href="README.en.md">🇺🇸 English</a>
 </div>
 
-###
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="420" alt="Dev programando à noite" />
+</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jully-ketely-silva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jullinha_s/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:jullyksilva@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://wa.me/5531995123805" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://github.com/jullysilva">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Jully+Ketely+%F0%9F%91%8B;Desenvolvedora+Fullstack;Engenheira+de+Software" alt="Olá, eu sou a Jully Ketely" />
   </a>
 </div>
 
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jullysilva.jullysilva&left_color=darkgray"  />
+  <a href="https://www.linkedin.com/in/jully-ketely-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jullyksilva@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail" /></a>
+  <a href="https://www.instagram.com/jullinha_s/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
-###
+---
 
-<h1 align="center">Fala pessoal, como vai? 👋</h1>
+## 👩‍💻 Sobre mim
 
-###
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" alt="Garota programando" />
 
-<h3 align="left">👩‍💻  Sobre mim:</h3>
+Sou a Jully Ketely, de Belo Horizonte. Me apaixonei pelo Front-End à primeira vista, mas hoje atuo de ponta a ponta, do front ao back-end, sempre buscando expandir minha visão e minhas experiências. E, claro, me divertindo fazendo o que gosto.
 
-###
+- 💼 Atuando como **Desenvolvedora Fullstack**
+- 🎓 **Engenheira de Software** pela PUC Minas
+- 🎨 Hobbies: estudar design, multimídia e social media
+- 📂 Projetos da faculdade na organização [Projetos PUC Alunos](https://github.com/orgs/Projetos-PUC-Alunos/repositories)
 
-<p align="left">Eu sou Jully Ketely, sou de Belo Horizonte. Me apaixonei a primeira vista com o Front-End e sigo nesta área, mas não ficar só nisto, expandir minha visão e experiências é o meu foco principal. E claro, me divertir fazendo o que eu gosto.<br><br>- 🔭 Não estou trabalhando no momento<br>- 📚 Graduação em Engenharia de Software na PUCMinas<br>- ⚡ Hobbie: Estudar design, multimídia e social midia</p>
+<br clear="right" />
 
-Tenho uma organização, a qual contém, projetos que trabalhei na faculdade [Projetos PUC Aluno](https://github.com/orgs/Projetos-PUC-Alunos/repositories). Fazendo um resumo geral, dos projetos, as linguagens trabalhadas foram: 
-- React;
-- Python;
-- Postgres;
-- GraphQL;
-- RabbitMQ;
-- CloudAMQP;
-- Selenium;
-- Java;
-- Thymeleaf;
-- Spring Boot;
-- Docker;
-- Pandas.
-
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas:</h3>
-
-###
+## 🛠 Linguagens e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="40" alt="drupal logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,java,spring,python,dotnet,cs,php,laravel,dart,docker,postgres,mysql,graphql,rabbitmq,jest,selenium,figma,azure,git&perline=11" alt="Linguagens e ferramentas" />
 </div>
 
-###
-
-<h3 align="left">🔥   Meu status:</h3>
-
-###
-
-<br clear="both">
+## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jullysilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="151" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jullysilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="151" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jullysilva&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="225" alt="streak graph"  />
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-###
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jullysilva&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://streak-stats.demolab.com?user=jullysilva&theme=radical&locale=pt_BR&hide_border=true" alt="Sequência de contribuições" />
+  <br />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=jullysilva&layout=compact&langs_count=8&theme=radical&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" />
+</div>
+
+## ⭐ Projetos em destaque
+
+<div align="center">
+  <a href="https://github.com/jullysilva/TheCar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jullysilva&repo=TheCar&theme=radical&locale=pt-br&hide_border=true" alt="TheCar" /></a>
+  <a href="https://github.com/jullysilva/API-FINANCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jullysilva&repo=API-FINANCA&theme=radical&locale=pt-br&hide_border=true" alt="API-FINANCA" /></a>
+  <a href="https://github.com/jullysilva/APP_GYM_MANAGER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jullysilva&repo=APP_GYM_MANAGER&theme=radical&locale=pt-br&hide_border=true" alt="APP_GYM_MANAGER" /></a>
+  <a href="https://github.com/jullysilva/Dieta.AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jullysilva&repo=Dieta.AI&theme=radical&locale=pt-br&hide_border=true" alt="Dieta.AI" /></a>
+</div>
+
+## 💬 Citação dev
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação aleatória de dev" />
+</div>
